@@ -9,7 +9,7 @@ This page explains how to set up the
 power modules HS-050-xx\* (50A), HS-100-xx (100A) and HS-200-xx\* (200A)
 to measure battery voltage and current consumption.  For information on purchasing, please see the `MAUCH Electronics <https://www.mauch-electronic.com/apps/webstore/>`__ website.
 
-(\*xx is the indicator for: LV = Vow Voltage 2-6S, maximum 28V HV = High
+(\*xx is the indicator for: LV = Low Voltage 2-6S, maximum 28V HV = High
 Voltage 4-14S, maximum 60V).
 
 .. tip::
